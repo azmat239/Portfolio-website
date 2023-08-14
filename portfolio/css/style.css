@@ -1,0 +1,22 @@
+ul a:hover{
+    text-decoration: underline;
+    background-color: rgba(194, 185, 185, 0.762);
+    border-radius: 50px;
+    color: white;
+}
+
+
+ul li{
+    /* margin-left: 15px; */
+    padding: 10px;
+}
+.active{
+    color: blue;
+    text-decoration: underline;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: oblique;
+
+}
